@@ -20,7 +20,7 @@ export default function Home() {
         countProducts={countProducts}
         setCountProducts={setCountProducts}
       />
-      <ProductList
+      <ProductList 
         allProducts={allProducts}
         setAllProducts={setAllProducts}
         total={total}
